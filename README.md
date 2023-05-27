@@ -1,1 +1,2 @@
-# Programacao
+# Programação
+Anotações de conhecimentos de programação.
